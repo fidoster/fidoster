@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fidoster
-- 👀 I’m interested in python language also Django and Pygames , likes to learn about new technologies such as IoT based devices and interested in block chain technology.
-- 🌱 I’m currently learning advanced pythong and pygames
+- 👀 I’m interested in front end development have skills in HTML , CSS & Javascript and working towards further improving those skills. Also learning other framworks such as react.
+- 🌱 I’m currently react and typescript.
 - 💞️ I’m looking to collaborate on different learning projects
 - 📫 How to reach me ...
 
