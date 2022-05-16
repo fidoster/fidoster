@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/farhan-ahmed-60a87936/](https://www.linkedin.com/in/farhan-ahmed-60a87936/)
 
-- ⚡ Fun fact **Loves to travel & lived in 5 different countries**
+- ⚡ Fun fact **loves to travel & lived in 5 different countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
