@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [FarhanIoT website - An IoT consulting business website](https://github.com/fidoster/FarhanIoT)
 
-- 🌱 I’m currently learning **Javascript & react**
+- 🌱 I’m currently learning **Javascript & React**
 
 - 👯 I’m looking to collaborate on **learning projects**
 
-- 🤝 I’m looking for help with **improving skills in JavaScript and react**
+- 🤝 I’m looking for help with **improving skills in JavaScript and React**
 
 - 👨‍💻 All of my projects are available at [farhan.live](farhan.live)
 
-- 💬 Ask me about **HTML , CSS, Python, Selenium & robot framwork**
+- 💬 Ask me about **HTML , CSS, JavaScript, React Python, Selenium & robot framwork**
 
 - 📫 How to reach me **farhan.midsweden@gmail.com**
 
