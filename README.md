@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **improving skills in JavaScript and React**
 
-- 👨‍💻 All of my projects are available at https://farhan.fi/
+- 👨‍💻 All of my projects are available at [farhan.fi] https://farhan.fi/
 
 - 💬 Ask me about **HTML , CSS, JavaScript, React Python, Selenium & robot framwork**
 
 - 📫 How to reach me **farhan.midsweden@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/farhan-ahmed-dev/](https://www.linkedin.com/in/farhan-ahmed-dev/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farhan-ahmed-dev/)
 
 - ⚡ Fun fact **loves to travel & lived in 5 different countries**
 
