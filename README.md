@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **improving skills in JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [farhan.fi] (https://farhan.fi/)
+- 👨‍💻 All of my projects are available at [farhan.fi](https://farhan.fi/)
 
 - 💬 Ask me about **HTML , CSS, JavaScript, React Python, Selenium & robot framwork**
 
