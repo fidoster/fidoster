@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **farhan.midsweden@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farhan-ahmed-dev/)
+- 📄 Know more about my experiences [LinkedIn](https://www.linkedin.com/in/farhan-ahmed-dev/)
 
 - ⚡ Fun fact **loves to travel & lived in 5 different countries**
 
