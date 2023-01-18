@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [My own portfolio website](https://farhan.fi/)
+- 🔭 I’m currently working on improving my skills
 
 - 🌱 I’m currently learning **Javascript & React**
 
