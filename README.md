@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> Visit my Personal Portfolio Website [Website](https://farhan.fi)<h3>
 
 - 🔭 I’m currently working on improving my skills
-
--   Visit my Personal Portfolio website [Website](https://farhan.fi)
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
