@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving my skills
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **TypeScript and Next.js**
   
 - 👨‍💻 Visit my Personal Portfolio [Website](https://farhan.fi)
 
