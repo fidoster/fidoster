@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on improving my skills
 
-- 🌱 I’m currently learning **Javascript & React**
+-   Visit my Personal Portfolio website [Website](https://farhan.fi)
+
+- 🌱 I’m currently learning **Typescript and Next.js**
 
 - 👯 I’m looking to collaborate on **learning projects**
 
-- 🤝 I’m looking for help with **improving skills in JavaScript and React**
+- 🤝 I’m looking for help with **improving skills in Typescript and Next.js**
 
-- 💬 Ask me about **HTML , CSS, JavaScript, React, Python, Selenium & robot framwork**
+- 💬 Ask me about **HTML , CSS, JavaScript, React, Python, TypeScript Selenium & robot framwork**
 
 - 📫 How to reach me **farhan.midsweden@gmail.com**
 
