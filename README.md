@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **improving skills in Typescript and Next.js**
 
-- 💬 Ask me about **HTML , CSS, JavaScript, React, Python, TypeScript Selenium & robot framwork**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, TypeScript Selenium & robot framework**
 
 - 📫 How to reach me **farhan.midsweden@gmail.com**
 
