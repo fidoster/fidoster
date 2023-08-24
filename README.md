@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving my skills further
 
-- 🌱 I’m currently learning **Building Cloud Native Apps.js**
+- 🌱 I’m currently learning **Building Cloud Native Apps**
   
 - 👨‍💻 Visit my Personal Portfolio [Website](https://farhan.fi)
 
