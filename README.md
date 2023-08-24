@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
-<h3 align="center">A passionate frontend developer | Azure Cloud Certified </h3>
+<h3 align="center">A passionate software developer | Azure & Oracle Cloud Certified </h3>
 
 - 🔭 I’m currently working on improving my skills further
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 🌱 I’m currently learning **Building Cloud Native Apps.js**
   
 - 👨‍💻 Visit my Personal Portfolio [Website](https://farhan.fi)
 
