@@ -1,23 +1,36 @@
-<h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
-<h3 align="center">A passionate software developer | Azure & Oracle Cloud Certified </h3>
+<h1 align="center">Hi there 👋, I'm Farhan Ahmed</h1>
+<h3 align="center">Passionate Software Developer | Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on improving my skills further
+<p align="center">
+  <a href="https://farhan.fi">Personal Portfolio</a> •
+  <a href="https://www.linkedin.com/in/farhan-ahmed-dev/">LinkedIn</a>
+</p>
 
-- 🌱 I’m currently learning how to **Build Cloud Native Apps**
-  
-- 👨‍💻 Visit my Personal Portfolio [Website](https://farhan.fi)
+- 🔭 I’m currently working on honing my development skills and exploring new technologies.
 
-- 👯 I’m looking to collaborate on **learning projects**
+- 🌱 I’m currently learning how to **Build Cloud Native Apps** and enhancing my cloud computing expertise.
 
-- 🤝 I’m looking for help with **improving skills in Typescript and Next.js**
+- 👨‍💻 I'm open to collaboration on exciting **learning-focused projects**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, TypeScript Selenium & robot framework**
+- 🤝 I’m looking for assistance in advancing my skills in **TypeScript** and **Next.js**.
 
-- 📫 How to reach me **farhan.midsweden@gmail.com**
+- 💬 Ask me about a wide range of technologies including **HTML, CSS, JavaScript, React, Python, TypeScript, Selenium, and Robot Framework**.
 
-- 📄 Know more about my experiences [LinkedIn](https://www.linkedin.com/in/farhan-ahmed-dev/)
+- 📫 Feel free to reach out to me at **farhan.midsweden@gmail.com**.
 
-- ⚡ Fun fact **loves to travel & lived in 5 different countries**
+- ⚡ Fun fact: I have an insatiable love for travel and have lived in 5 different countries!
+
+### Cloud Certifications
+I'm proud to hold the following cloud certifications:
+
+- Microsoft Azure:
+  - [Azure AZ-900 Cloud Certification](https://learn.microsoft.com/en-us/users/farhanahmed-2347/credentials/54e0c4a2c98b405f)
+  - Azure AI-900 Azure AI Fundamentals
+
+- Oracle Cloud:
+  - Oracle Cloud Infrastructure 2023 Certified Developer Professional
+  - Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+  - Oracle Cloud Data Management 2023 Certified Foundations Associate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
