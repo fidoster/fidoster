@@ -25,10 +25,10 @@ I'm proud to hold the following cloud certifications:
 
 - Microsoft Azure:
   - [Azure AZ-900 Cloud Certification](https://learn.microsoft.com/en-us/users/farhanahmed-2347/credentials/54e0c4a2c98b405f)
-  - Azure AI-900 Azure AI Fundamentals
+  - [Azure AI-900 Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/farhanahmed-2347/credentials/f322f8c20cc4bd22)
 
 - Oracle Cloud:
-  - Oracle Cloud Infrastructure 2023 Certified Developer Professional
+  - [Oracle Cloud Infrastructure 2023 Certified Developer Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=33AFC856F6EF3690FB9FB7E43D0F62FFEEADE7361D929D1A175CD6D969A85654)
   - Oracle Cloud Infrastructure 2023 Certified Foundations Associate
   - Oracle Cloud Data Management 2023 Certified Foundations Associate
 
