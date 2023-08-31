@@ -29,8 +29,8 @@ I'm proud to hold the following cloud certifications:
 
 - Oracle Cloud:
   - [Oracle Cloud Infrastructure 2023 Certified Developer Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=33AFC856F6EF3690FB9FB7E43D0F62FFEEADE7361D929D1A175CD6D969A85654)
-  - Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-  - Oracle Cloud Data Management 2023 Certified Foundations Associate
+  - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=094CF281A51C290C7C9A8993F7E73180BF91AF960148D507A0FF1E2063B59405)
+  - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1666276332B163EC00B4C2D54AE5B1F4A022D053853F8C3A4D14EC5DA0E73A33)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
