@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for assistance in advancing my skills in **TypeScript** and **Next.js**.
 
-- 💬 Ask me about a wide range of technologies including **HTML, CSS, JavaScript, React, Python, TypeScript, Selenium, and Robot Framework**.
+- 💬 Ask me about a wide range of technologies including **HTML, CSS, JavaScript, Material-UI, React, Python, TypeScript, Selenium, and Robot Framework**.
 
 - 📫 Feel free to reach out to me at **farhan.midsweden@gmail.com**.
 
